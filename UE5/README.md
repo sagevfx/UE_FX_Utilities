@@ -1,2 +1,2 @@
 文件夹FX_Sage_Utility放到工程的Content文件夹下使用
-UE4.26版本不再更新   可以直接放到UE5中
+工具持续更新
